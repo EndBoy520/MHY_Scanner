@@ -15,7 +15,7 @@
 - 从直播流获取二维码登录，适用于抢码登录情景。
 - 可选启动后自动开始识别屏幕和识别完成后自动退出，无需登录后手动切窗口关闭。
 - 表格化管理多账号，方便切换游戏账号。
-
+ 
 ## 目前可用的平台
 |   崩坏3    | 原神  | 星穹铁道 | 绝区零 |
 | :--------: | :---: | :------:| :----: |
@@ -58,6 +58,9 @@
 - boost
 - httplib
 
+## 相关项目
+- [KuRo_Scan](https://github.com/Theresa-0328/KuRo_Scan) – 鸣潮扫码器
+
 ## 参考和感谢
 - [HonkaiScanner](https://github.com/HonkaiScanner)
 
@@ -65,6 +68,6 @@
 
 - [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)
 
-## 感谢以下赞助者的支持，他们的赞助使得这个项目能够持续发展。
+## 感谢以下赞助者的支持
 
 [guhdiasdsknkja](https://github.com/guhdiasdsknkja)
